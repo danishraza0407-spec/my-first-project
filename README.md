@@ -1,5 +1,5 @@
 # ATM Management System (C Language)
-<b\>
+<br>
 This project is a simple ATM Management System developed in C++ language.  
 It simulates basic banking operations like balance inquiry, deposit, withdrawal, and PIN authentication.
 
